@@ -290,7 +290,7 @@ textarea{
 }
 @media screen and (max-width:768px){
     nav , .logo{
-        font-size: 18px;
+        font-size: 20px;
     }
     .head-logo{
         height: 30vh;
@@ -348,6 +348,9 @@ textarea{
     }
     h1{
         font-size: 25px;
+    }
+    .first-info h1{
+        margin-bottom: -30px;
     }
     .third-info h1{
         font-size: 25px;
